@@ -1,4 +1,5 @@
 <?php
-header('Location: <CUSTOM>');
-exit();
 
+header('Location: index.html');
+exit
+?>
